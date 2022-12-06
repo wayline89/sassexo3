@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.footernoir {
+  background-color: black;
+  text-align: center;
+  height: 50px;
+  padding-top: 7px;
+}
+
+.textfooter {
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+.topligne {
+  display: flex;
+  background-color: #00004c;
+}
+
+.textdroit {
+  display: flex;
+  padding-left: 840px;
+  align-items: center;
+  color: #71719b;
+}
+
+.signup {
+  margin-right: 10px;
+}
+
+.login {
+  margin-left: 10px;
+}
+
+.textgauche {
+  padding-left: 200px;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+}
+
+.carrebleu {
+  background-color: #0000ff;
+  height: 400px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.carrebleumilieu {
+  text-align: center;
+  align-items: center;
+}
+
+.carrebleutext {
+  text-align: center;
+  align-items: center;
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
+}
+
+.carrebleutext2 {
+  text-align: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #ee0979;
+  color: white;
+  border-radius: 50px;
+  height: 30px;
+  width: 100px;
+}
+
+.rondsection {
+  background-color: white;
+  display: flex;
+}
+
+.rondimgclass {
+  padding-left: 200px;
+  padding-top: 40px;
+  padding-right: 400px;
+}
+
+.rondimg {
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+}
+
+.textrond1 {
+  color: black;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.textrondg {
+  padding-left: 370px;
+  padding-top: 120px;
+}
+
+.rondsectiong {
+  background-color: white;
+  display: flex;
+}
+
+.textrondgg {
+  padding-left: 140px;
+  padding-right: 180px;
+  padding-top: 50px;
+}
+
+.rondimgclassg {
+  padding-left: 320px;
+}
+
+/*# sourceMappingURL=style.css.map */
